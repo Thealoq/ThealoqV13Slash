@@ -1,0 +1,21 @@
+{
+  "name": "thealoqv13slash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Src/Thealoq.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": ["thealoq"],
+  "author": "thealoq",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord.js": "^13.7.0",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.4",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.7"
+  }
+}

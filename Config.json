@@ -1,0 +1,7 @@
+{
+    "token": "token",
+    "ClientID": "clientid",
+    "GuildID": "serverid",
+    "url":"mongodb://localhost/thealoq",
+    "footer": "Peach 💕 Thealoq"
+}
